@@ -11,6 +11,7 @@ gem 'active_model_serializers', '~> 0.10.13'
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
+# bcrypt
 gem 'bcrypt'
 
 # Use the Puma web server [https://github.com/puma/puma]
